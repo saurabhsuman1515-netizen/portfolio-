@@ -3,7 +3,7 @@ export const portfolio = {
   personal: {
     name: 'SAURABH SUMAN', initials: 'SS', title: 'Student · Developer · AI Enthusiast',
     tagline: 'Curious by Nature. Builder by Choice.',
-    email: '[saurabhsuman1405@gmail.com]', github: '[https://github.com/saurabhsuman1515-netizen]', linkedin: '[https://www.linkedin.com/in/saurabh-suman-8087a63bb/]', leetcode:'[https://leetcode.com/u/cse26_1367/]',codechef: '[https://www.codechef.com/users/cse26_1367]',
+    email: 'saurabhsuman1405@gmail.com', github: 'https://github.com/saurabhsuman1515-netizen', linkedin: 'https://www.linkedin.com/in/saurabh-suman-8087a63bb/', leetcode:'https://leetcode.com/u/cse26_1367/',codechef: 'https://www.codechef.com/users/cse26_1367',
     location: '[GHAZIABAD]', photo: '/images/profile.png', resume: '#',
     bio: 'I am a student developer focused on building useful, accessible products at the intersection of software and AI. ',
     learning: 'Currently pursuing B-Tech from ABES Engineering college.I enjoy exploring web development, AI, automation, and problem-solving while continuously learning new technologies. From developing innovative projects to participating in hackathons, I’m focused on turning ideas into practical, impactful products'},
