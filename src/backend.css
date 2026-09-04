@@ -1,0 +1,11 @@
+.honeypot {
+  position: absolute !important;
+  left: -9999px !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+form button:disabled {
+  cursor: wait;
+  opacity: .7;
+}

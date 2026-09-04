@@ -2,6 +2,16 @@
   "name": "neural-portfolio",
   "private": true,
   "version": "1.0.0",
-  "scripts": { "dev": "npx vite --host 127.0.0.1", "build": "npx vite build", "preview": "npx vite preview --host 127.0.0.1" },
-  "devDependencies": { "vite": "latest" }
+  "scripts": {
+    "dev": "npx vite --host 127.0.0.1",
+    "build": "npx vite build",
+    "preview": "npx vite preview --host 127.0.0.1"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.12.5",
+    "@supabase/supabase-js": "^2.115.0"
+  }
 }
